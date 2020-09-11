@@ -26,9 +26,9 @@ The default path for pre-trained networks is model/sononet. Some of the pre-trai
 The features extracted from the ultrasound videos can be downloaded HERE. The raw ultrasound dataset is not public subject to approval by the project ethics board and under a formal Data Sharing Agreement between the collaboration institutaions, the hospital and the participants.
 # Demo Videos
 An example video summary from an untrasound examination
-1) reducing the video to 15% of it’s original length: https://youtu.be/K3kC2LEB0fY, 
-2) unsupervised to 15% length: https://youtu.be/72iP9F3XxMA 
-3) to a more relaxed 45% of the original length here https://youtu.be/6LRs78hzRUs .
+1) reducing the video to 15% of it’s original length: [demo1](https://youtu.be/K3kC2LEB0fY), 
+2) unsupervised to 15% length: [demo2](https://youtu.be/72iP9F3XxMA) 
+3) to a more relaxed 45% of the original length here [demo3](https://youtu.be/6LRs78hzRUs).
 
 
 # Citation
