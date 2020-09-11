@@ -12,11 +12,11 @@ Our approach is framed as reinforcement learning problem and produces agents foc
 # Setup
 
 **Environment:** 
-*PyTorch 0.4
-*python 2.7
-*numpy 1.15.1
-*h5py 2.7.0
-*matplotlib 2.0.2
+* PyTorch 0.4
+* python 2.7
+* numpy 1.15.1
+* h5py 2.7.0
+* matplotlib 2.0.2
 
 **Pre-trained models:** 
 The code utilize pre-trained sonoNet models for standard plane detection. More details for this model can be found here:<br>
