@@ -1,7 +1,7 @@
 # Introduction
 
 
-This repo contains the Pytorch implementation of the MICCAI'20 paper - "Ultrasound Video Summarization using Deep Reinforcement Learning". [arxivpdf]（https://arxiv.org/abs/2005.09531v1）
+This repo contains the Pytorch implementation of the MICCAI'20 paper - "Ultrasound Video Summarization using Deep Reinforcement Learning". https://arxiv.org/abs/2005.09531v1
 
 ![overview](figures/overview_ifind.png)
 
@@ -21,7 +21,6 @@ An example video summary from an untrasound examination
 1) reducing the video to 15% of it’s original length: https://youtu.be/K3kC2LEB0fY, 
 2) unsupervised to 15% length: https://youtu.be/72iP9F3XxMA 
 3) to a more relaxed 45% of the original length here https://youtu.be/6LRs78hzRUs .
-
 
 
 # Citation
