@@ -35,6 +35,7 @@ Example video summaries from an untrasound examination:
 # Citation
 
 @misc{liu2020ultrasound,
+
     title={Ultrasound Video Summarization using Deep Reinforcement Learning},
     author={Tianrui Liu and Qingjie Meng and Athanasios Vlontzos and Jeremy Tan and Daniel Rueckert and Bernhard Kainz},
     year={2020}, 
