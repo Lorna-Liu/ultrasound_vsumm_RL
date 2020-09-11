@@ -1,21 +1,20 @@
 # Introduction
 
 
-This repo contains the Pytorch implementation of the MICCAI'20 paper - "Ultrasound Video Summarization using Deep Reinforcement Learning". 
+This repo contains the Pytorch implementation of the MICCAI'20 paper - "Ultrasound Video Summarization using Deep Reinforcement Learning". [arxivpdf]（https://arxiv.org/abs/2005.09531v1）
 
 ![overview](figures/overview_ifind.png)
 
 We introduce a novel fully automatic video summarization method that is tailored to the needs of medical video data. <br>
 Our approach is framed as reinforcement learning problem and produces agents focusing on the preservation of important diagnostic information. <br>
 
-We evaluate our method on videos from fetal ultrasound screening, where commonly only a small amount of the recorded data is used diagnostically. We show that our method is superior to alternative video summarization methods and that it preserves essential information required by clinical diagnostic standards. 
 
 # Setup
-Pre-trained models: The code utilize pre-trained sonoNet models for standard plane detection. More details for this model can be found here:<br>
-
+**Pre-trained models:** 
+The code utilize pre-trained sonoNet models for standard plane detection. More details for this model can be found here:<br>
 The default path for pre-trained networks is model/sononet. Some of the pre-trained models and plotted figures can be downloaded here:<br>
 
-Dataset:
+**Dataset:**
 The features extracted from the ultrasound videos can be downloaded HERE. The raw ultrasound dataset is not public subject to approval by the project ethics board and under a formal Data Sharing Agreement between the collaboration institutaions, the hospital and the participants.
 # Demo Videos
 An example video summary from an untrasound examination
