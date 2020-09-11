@@ -4,8 +4,7 @@
 This repo contains the Pytorch implementation of the MICCAI'20 paper - "Ultrasound Video Summarization using Deep Reinforcement Learning". 
 
 ![overview](figures/overview_ifind.png)
-# Reference
-This repo is based on the .
+
 # Demo Videos
 An example video summary from an untrasound examination
 1) reducing the video to 15% of it’s original length: https://youtu.be/K3kC2LEB0fY, 
@@ -24,3 +23,6 @@ The features extracted from the ultrasound videos can be downloaded HERE. The ra
     archivePrefix={arXiv},
     primaryClass={cs.CV}
 }
+
+# Reference
+This repo is implemented based on the the project https://github.com/Lorna-Liu/pytorch-vsumm-RL.
