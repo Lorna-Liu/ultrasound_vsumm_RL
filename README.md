@@ -18,14 +18,9 @@ The features extracted from the ultrasound videos can be downloaded HERE. The ra
 @misc{liu2020ultrasound,
     
     title={Ultrasound Video Summarization using Deep Reinforcement Learning},
-    
     author={Tianrui Liu and Qingjie Meng and Athanasios Vlontzos and Jeremy Tan and Daniel Rueckert and Bernhard Kainz},
-    
-    year={2020},
-    
+    year={2020}, 
     eprint={2005.09531},
-    
     archivePrefix={arXiv},
-    
     primaryClass={cs.CV}
 }
