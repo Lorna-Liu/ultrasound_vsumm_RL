@@ -3,7 +3,7 @@
 
 This repo contains the Pytorch implementation of the MICCAI'20 paper - "Ultrasound Video Summarization using Deep Reinforcement Learning". 
 
-
+![overview](figures/overview_ifind.png)
 # Reference
 This repo is based on the .
 # Demo Videos
