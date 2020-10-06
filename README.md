@@ -22,7 +22,7 @@ The code utilize pre-trained sonoNet models for standard plane detection. More d
 The default path for pre-trained networks is [sononet](https://arxiv.org/abs/1612.05601). <br>
 
 **Dataset:**
-The features extracted from the ultrasound videos can be downloaded [HERE](https://imperiallondon-my.sharepoint.com/:u:/r/personal/trl15_ic_ac_uk/Documents/Github_data/us_dataset.zip?csf=1&web=1&e=YcNgZA). 
+The features extracted from the ultrasound videos can be downloaded [HERE](https://imperiallondon-my.sharepoint.com/:f:/g/personal/trl15_ic_ac_uk/EoX1nQHhB3FJnbAzarOLwPgBbfU89iCXwnJaxg6rwteR_g?e=fcTrC3). 
 The raw ultrasound dataset is not public subject to approval by the project ethics board and under a formal Data Sharing Agreement between the collaboration institutaions, the hospital and the participants.
 
 # Demo Videos
