@@ -18,8 +18,7 @@ Our approach is framed as reinforcement learning problem and produces agents foc
 * matplotlib 2.0.2
 
 **Pre-trained models:** 
-The code utilize pre-trained sonoNet models for standard plane detection. More details for this model can be found here:<br>
-The default path for pre-trained networks is [sononet](https://arxiv.org/abs/1612.05601). <br>
+The code utilize pre-trained sonoNet models for standard plane detection. More details for this model can be found here:<br> [sononet](https://arxiv.org/abs/1612.05601). <br>
 
 **Dataset:**
 The features extracted from the ultrasound videos can be downloaded [HERE](https://imperiallondon-my.sharepoint.com/:f:/g/personal/trl15_ic_ac_uk/EoX1nQHhB3FJnbAzarOLwPgBbfU89iCXwnJaxg6rwteR_g?e=fcTrC3). 
